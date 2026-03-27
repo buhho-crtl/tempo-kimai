@@ -37,7 +37,7 @@ Tempo does not collect or store any personal data on our servers. All timesheet 
 
 The free version displays ads via Google AdMob. Upgrading to **Tempo Pro** removes all ads and unlocks the full Reports section.
 
-Full privacy policy: [privacy policy](privacy.html)
+Full privacy policy: [privacy policy](privacy.md)
 
 ---
 
